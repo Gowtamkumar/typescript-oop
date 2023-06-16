@@ -25,4 +25,4 @@ class FullTimeEmployee extends Charater {
 
 const result = new FullTimeEmployee("Gowtam", "kumar", 50); // you can use this method Charater class
 
-console.log(result);
+console.log(result.FullName());
